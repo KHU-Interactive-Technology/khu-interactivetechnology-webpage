@@ -23,7 +23,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 3 
+      count: 5 
       filters:
         author: ''
         category: ''

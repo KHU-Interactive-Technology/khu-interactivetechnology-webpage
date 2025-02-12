@@ -7,7 +7,7 @@ title: 'HapMotion: motion-to-tactile framework with wearable haptic devices for 
 authors:
   - "Kyungeun Jung"
   - "Sangpil Kim"
-  - admin
+  - "Seungjae Oh"
   - "Sangho Yoon"
 author_notes:
   - 
@@ -23,7 +23,7 @@ publishDate: '2024-07-12T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["international-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: '*Springer VR, 28*(1)'
