@@ -7,21 +7,23 @@ image:
 
 <!--more-->
 ### Featured Project
-- **전민하**, Satellite WIM Object Selection in VR
+- **전민하**, Satellite WIM Object Selection in VR.
   - This work is submitted to VRST2024
   - [Video](), [Github]();  
 
 
 ### 2023 Spring Semester
-- **하창범**,MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes
+- **하창범**, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
   - Currently master's student in KHU HIT
-- **전민하**, Satellite WIM Object Selection in VR
+- **전민하**, Satellite WIM Object Selection in VR.
   - Currently master's student in KHU HIT
   - This work is submitted to VRST2024
   - [Video](), [Github]()
-- **김민정**, Yoga pose feedback system through motion recognition and motion analysis in VR. [Github](https://github.com/mmindoong/-2023-1-FitnessVRUnity)
-- **신필규**, An Improvement of Haptic Feedback with Acceleration Sensor 
-- **Piao Yongyi and Yuan Guangzhe**, Ping Pong AI & Data Collection. [Github](https://github.com/PIAOYONGYI2019102072/2023-1SWCD)
+- **김민정**, Yoga pose feedback system through motion recognition and motion analysis in VR. [Github](https://github.com/mmindoong/-2023-1-FitnessVRUnity).
+- **신필규**, An Improvement of Haptic Feedback with Acceleration Sensor. 
+- **Piao Yongyi and Yuan Guangzhe**, Ping Pong AI & Data Collection. [Github](https://github.com/PIAOYONGYI2019102072/2023-1SWCD).
 - Non-Pass: 1 students
 
-
+### 2022 Fall Semester
+- **이민우**, Design and Implement Exo-skeletons for Haptic Interaction.
+- **문희찬**, Using bio-signals for game interaction design 
