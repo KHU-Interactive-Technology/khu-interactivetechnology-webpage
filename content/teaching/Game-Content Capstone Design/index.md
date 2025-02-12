@@ -6,8 +6,8 @@ image:
 ---
 Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 <!--more-->
-🎓: students who joined our laboratory as graduate students.
-🔬: projects with this mark denote interesting and promising topics for future capstone design projects.
+🎓: students who joined our laboratory as graduate students.<br>
+🔬: projects with this mark denote interesting and promising topics for future capstone design projects.<br>
 
 ### Featured Projects
 - **박상준, 김태민**, Eyetracking for Game Design and Interaction Analysis. 🔬[Github](https://github.com/sangjun12458/VR_EyeHaptics_Pinball).
