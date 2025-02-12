@@ -10,9 +10,7 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 🔬: projects with this mark denote interesting and promising topics for future capstone design projects.<br>
 
 ### Featured Projects
-- **전민하**🎓, Satellite: WIM Object Selection in VR.
-  - This work is submitted to VRST2024
-  - [Video](); [Github]().
+- **전민하**🎓, Satellite: WIM Object Selection in VR. [Github](). This work is submitted to VRST2024📖.
 - **이정민**🎓, Microgesture Gesture in Wearable Interfaces for Enhancing Input Vocabulary. 🔬[Github](https://github.com/ketchupmustardmayonnaise/SWCD_HandInterface).
 - **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
 - **유다인**, Image Style Transfer for Game Objects Texturing from ClipTrasnfer. 🔬[Github](https://github.com/dain6978/CLIPstyler).
@@ -34,8 +32,7 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 - **김태민**, Eye-Tracking Based Vibrotactile Rendering in Games. 🔬[Github](https://github.com/terry1577/SWCDfinal).
 - **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
 - **안해영**, Improving Bullet Magnetism Algorithms in FPS with Eye Tracking Technology. 🔬[Github](https://github.com/anhaeyeong/EBM.git).
-- **전재현**, Enhancing User Experience in Avatar-based Interaction by Reflecting Face Tracking and Emotional Response to Realistic Human Avatar. 🔬.
-. [Github](https://github.com/J2on/SWCapstoneDesign).
+- **전재현**, Enhancing User Experience in Avatar-based Interaction by Reflecting Face Tracking and Emotional Response to Realistic Human Avatar. 🔬[Github](https://github.com/J2on/SWCapstoneDesign).
 - **송인혁**, Spacewalk-Locomotion technique for VR Experience while lying down. [Github](https://github.com/Chesed990204/SpaceWalkVR).
 - Non-Pass: 2 students
 
@@ -46,9 +43,7 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 
 ### 2023 Spring Semester
 - **하창범**🎓, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
-- **전민하**🎓, Satellite: WIM Object Selection in VR.
-  - This work is submitted to VRST2024
-  - [Video](), [Github]()
+- **전민하**🎓, Satellite: WIM Object Selection in VR. [Github](). This work is submitted to VRST2024📖.
 - **김민정**, Yoga pose feedback system through motion recognition and motion analysis in VR. 🔬[Github](https://github.com/mmindoong/-2023-1-FitnessVRUnity).
 - **신필규**, An Improvement of Haptic Feedback with Acceleration Sensor. 
 - **Piao Yongyi, Yuan Guangzhe**, Ping Pong AI & Data Collection. [Github](https://github.com/PIAOYONGYI2019102072/2023-1SWCD).
