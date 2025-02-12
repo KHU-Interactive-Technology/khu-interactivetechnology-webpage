@@ -4,8 +4,7 @@ date: 2023-06-30
 image:
   focal_point: 'top'
 ---
-Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
-
+Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 <!--more-->
 🎓: students who joined our laboratory as graduate students.
 
