@@ -12,9 +12,9 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 ### Featured Projects
 - **전민하**🎓, Satellite: WIM Object Selection in VR.
   - This work is submitted to VRST2024
-  - [Video](), [Github]();  
+  - [Video](); [Github]().
 - **이정민**🎓, Microgesture Gesture in Wearable Interfaces for Enhancing Input Vocabulary. 🔬[Github](https://github.com/ketchupmustardmayonnaise/SWCD_HandInterface).
-- **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git); [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
+- **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
 - **유다인**, Image Style Transfer for Game Objects Texturing from ClipTrasnfer. 🔬[Github](https://github.com/dain6978/CLIPstyler).
 - **맹주환, 권용준**, Autumatic Story Authoring Tool from LLM Agents. [Github](https://github.com/JuhwanMaeng/capstone_2024-2).
 
@@ -32,7 +32,7 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 - **이정민**🎓, Microgesture Gesture in Wearable Interfaces for Enhancing Input Vocabulary. 🔬[Github](https://github.com/ketchupmustardmayonnaise/SWCD_HandInterface).
 - **박상준**, Eye-Tracking Based Spactial Audio Rendering in VR Reading Interfaces. 🔬[Github](https://github.com/sangjun12458/EyeTracking-TextToSound).
 - **김태민**, Eye-Tracking Based Vibrotactile Rendering in Games. 🔬[Github](https://github.com/terry1577/SWCDfinal).
-- **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git); [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
+- **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
 - **안해영**, Improving Bullet Magnetism Algorithms in FPS with Eye Tracking Technology. 🔬[Github](https://github.com/anhaeyeong/EBM.git).
 - **전재현**, Enhancing User Experience in Avatar-based Interaction by Reflecting Face Tracking and Emotional Response to Realistic Human Avatar. 🔬.
 . [Github](https://github.com/J2on/SWCapstoneDesign).
