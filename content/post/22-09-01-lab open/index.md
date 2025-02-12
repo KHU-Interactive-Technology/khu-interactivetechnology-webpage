@@ -5,7 +5,7 @@ draft: false
 profile: true
 
 authors: 
-  - 吳恩達
+  - Seungjae Oh
 
 title: Lab Opening!
 date: 2022-09-01
