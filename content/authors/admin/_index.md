@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'khu.hcilab@gmail.com'
+    link: 'mailto:khu.hcilab@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -64,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our research focuses on **designing novel input and output interfaces fostering seamless interactions** between humans and computers.
