@@ -1,6 +1,8 @@
 ---
 #draft true로 해당 내용 안보이게
 draft: false 
+profile: true
+
 title: 'HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience'
 authors:
   - "Kyungeun Jung"

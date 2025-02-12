@@ -8,21 +8,22 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Beyond Technology
       image:
-        filename: welcome.jpg
+        filename: main.jpg
       text: |
-        <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University. 
+
+        Our research focuses on **designing novel input and output interfaces fostering seamless interactions** between humans and computers.
+#We envision next-generation interactive technologies for future computing environments, e.g., extended reality and metaverse. 
   
   - block: collection
     content:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3 
       filters:
         author: ''
         category: ''
@@ -32,8 +33,9 @@ sections:
       offset: 0
       order: desc
       page_type: post
+# 참고: https://docs.hugoblox.com/getting-started/page-builder/#listing-view      
     design:
-      view: card
+      view: compact #card, citation, list, showcase
       columns: '1'
   
   - block: markdown
@@ -69,12 +71,12 @@ sections:
   #     view: citation
   #     columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: |
+  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+  #   design:
+  #     columns: '1'
 ---
