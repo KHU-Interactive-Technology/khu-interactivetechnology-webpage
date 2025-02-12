@@ -4,17 +4,18 @@ date: 2023-06-30
 image:
   focal_point: 'top'
 ---
+
+<!--more-->
 ### Featured Project
-- Satellite WIM Object Selection in VR
-  - 전민하 (Currently master's student in KHU HIT)
-  - [Video](); This work is submitted to VRST2024
+- **전민하**, Satellite WIM Object Selection in VR
+  - [Video](); This work is submitted to VRST2024 
 
 
 ### 2023 Spring Semester
-- MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes
-  - 하창범 (Currently master's student in KHU HIT)
-- Satellite WIM Object Selection in VR
-  - 전민하 (Currently master's student in KHU HIT)
+- **하창범**,MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes
+  - Currently master's student in KHU HIT
+- **전민하**, Satellite WIM Object Selection in VR
+  - Currently master's student in KHU HIT
   - [Video](); This work is submitted to VRST2024  
 - Yoga pose feedback system through motion recognition and motion analysis in VR
   - 김민정
@@ -26,6 +27,3 @@ image:
 - Non-Pass: 1 students
 
 
-
-<!--more-->
-### SWCON254: Cicuits and Signal Analysis
