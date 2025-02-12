@@ -5,7 +5,7 @@ draft: false
 profile: true
 
 authors: 
-  - Changbeom Ha
+  - admin
 
 title: New Students
 date: 2024-03-04

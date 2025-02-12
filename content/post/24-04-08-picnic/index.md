@@ -5,7 +5,7 @@ draft: false
 profile: true
 
 authors: 
-  - admin
+  - Changbeom Ha
 
 title: The first spring in the Lab
 date: 2024-04-08

@@ -6,6 +6,10 @@ title: KHU HIT
 first_name: HIT
 last_name: KHU
 
+# Username (this should match the folder name)
+authors:
+  - admin
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -25,11 +29,11 @@ interests:
   - Haptics
   - Artificial Intelligence
   
-education:
-  courses:
-    - course: Opening
-      institution: Kyung Hee University
-      year: 2022
+# education:
+#   courses:
+#     - course: Opening
+#       institution: Kyung Hee University
+#       year: 2022
 
 
 # Social/Academic Networking

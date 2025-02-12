@@ -5,10 +5,10 @@ draft: false
 profile: true
 
 authors: 
-  - Seungjae Oh
+  - admin
   
 title: Recruiting Students
-date: 2023-03-28
+date: 2025-01-02
 image:
   focal_point: 'top'
 ---

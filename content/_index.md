@@ -24,7 +24,7 @@ sections:
       text:
       count: 5 
       filters:
-        author: ''
+        author: 'Seungjae Oh'
         category: ''
         exclude_featured: false
         publication_type: ''

@@ -5,7 +5,7 @@ draft: false
 profile: true
 
 authors: 
-  - Jungmin Lee
+  - admin
 
 title: ETRI Internship
 date: 2024-12-28
