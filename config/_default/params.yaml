@@ -9,7 +9,8 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  #이거말고 Home의 fonsize바꾸는 방법이 있는지 찾아보기!
+  font_size: M 
 
 # SEO
 
