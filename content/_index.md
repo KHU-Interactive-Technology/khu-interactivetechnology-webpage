@@ -10,7 +10,7 @@ sections:
       title: |
         Beyond Technology
       image:
-        filename: main.jpg
+        filename: landing.jpg
       text: |
         
         The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University. 

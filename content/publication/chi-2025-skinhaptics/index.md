@@ -1,8 +1,8 @@
 ---
-#Basic Setting: draft true로 해당 내용 안보이게
+#Basic Setting: draft - 해당 내용 안보이게; profile - 아래 author icon
 #참고: https://docs.hugoblox.com/reference/page-features/#page-resources-attachments-and-links
 draft: false 
-profile: false
+profile: true
 
 title: 'SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions'
 authors:
@@ -10,7 +10,7 @@ authors:
   - "Minha Jeon"
   - "Jinyoung Lee"
   - "Seungmoon Choi"
-  - admin
+  - "Seungjae Oh"
 date: '2025-04-29T00:00:00Z'
 doi: ''
 
