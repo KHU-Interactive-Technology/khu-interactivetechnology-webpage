@@ -1,5 +1,5 @@
 ---
-title: Semester
+title: Courses
 
 # Listing view
 view: compact
