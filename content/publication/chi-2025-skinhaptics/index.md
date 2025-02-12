@@ -1,4 +1,6 @@
 ---
+#draft true로 해당 내용 안보이게
+draft: false 
 title: 'SkinHaptics: Exploring Skin Softness Perception and Virtual Body Embodiment Techniques to Enhance Self-Haptic Interactions'
 authors:
   - "Jungeun Lee"
@@ -13,10 +15,9 @@ doi: ''
 publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of CHI Conference on Human Factors in Computing Systems*

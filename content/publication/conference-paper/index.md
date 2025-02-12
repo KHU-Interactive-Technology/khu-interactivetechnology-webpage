@@ -1,4 +1,6 @@
 ---
+#draft true로 해당 내용 안보이게
+draft: true 
 title: 'An example conference paper'
 
 # Authors
