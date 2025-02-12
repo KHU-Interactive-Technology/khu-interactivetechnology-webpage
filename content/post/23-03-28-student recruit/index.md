@@ -1,4 +1,12 @@
 ---
+#Basic Setting: draft - 해당 내용 안보이게; profile - 아래 author icon
+#참고: https://docs.hugoblox.com/reference/page-features/#page-resources-attachments-and-links
+draft: false 
+profile: true
+
+authors: 
+  - Seungjae Oh
+  
 title: Recruiting Students
 date: 2023-03-28
 image:
