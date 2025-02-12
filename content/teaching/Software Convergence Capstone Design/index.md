@@ -9,7 +9,7 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 🎓: students who joined our laboratory as graduate students.<br>
 🔬: projects with this mark denote interesting and promising topics for future capstone design projects.<br>
 
-### Featured Projects
+### Hall of Fame
 - **전민하**🎓, Satellite: WIM Object Selection in VR. [Github](). This work is submitted to VRST2024📖.
 - **이정민**🎓, Microgesture Gesture in Wearable Interfaces for Enhancing Input Vocabulary. 🔬[Github](https://github.com/ketchupmustardmayonnaise/SWCD_HandInterface).
 - **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git).
