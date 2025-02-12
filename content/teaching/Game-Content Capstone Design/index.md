@@ -27,7 +27,7 @@ Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 
 ### 2023 Spring Semester
 - **손예배, 배윤지**, Cleaning Game: Integrating Real-World Information into Virtual Reality. [Github](https://github.com/baeyunji/cleaning_with_VR_distraction).
-- **이대억, 이진영**, Designing Walking-In-Place Interaction from AvatarPoser (Full-Body Pose Tracking From Sparse motion Sensing). 
+- **이대억, 이진영🎓**, Designing Walking-In-Place Interaction from AvatarPoser (Full-Body Pose Tracking From Sparse motion Sensing). 
 
 <!-- ### 2022 Fall Semester
 - **하지윤**, Cleaning Game: Integrating Real-World Information into Virtual Reality. [Github](https://github.com/baeyunji/cleaning_with_VR_distraction).

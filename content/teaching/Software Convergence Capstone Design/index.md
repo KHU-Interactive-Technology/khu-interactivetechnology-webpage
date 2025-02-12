@@ -5,35 +5,31 @@ image:
   focal_point: 'top'
 ---
 Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
+🎓: students who joined as graduate students in KHU HIT.
 <!--more-->
 ### Featured Project
-- **전민하**, Satellite WIM Object Selection in VR.
+- **전민하**🎓, Satellite WIM Object Selection in VR.
   - This work is submitted to VRST2024
   - [Video](), [Github]();  
-- **이정민**, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
+- **이정민**🎓, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
   - Currently master's student in KHU HIT
 
 
-### 2023 Spring Semester
-- **이정민**, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
-  - Currently master's student in KHU HIT
+### 2024 Spring Semester
+- **이정민**🎓, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
 - **박상준**, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
-  - Currently master's student in KHU HIT
 - **송인혁**, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
-  - Currently master's student in KHU HIT    
+  
 
 
 ### 2023 Fall Semester
 - **문석호**, Linguistic Bi-manual Hand Gestures for Animating Multiple Virtual Agents. [Github](https://github.com/khumsh/23-2-SW-Capstone-Design).
-- **이진영**, Impulsive Force Computation for Haptic Interactions with Remote Objects.
-  - Currently master's student in KHU HIT
+- **이진영**🎓, Impulsive Force Computation for Haptic Interactions with Remote Objects.
 - Non-Pass: 1 students
 
 ### 2023 Spring Semester
-- **하창범**, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
-  - Currently master's student in KHU HIT
-- **전민하**, Satellite WIM Object Selection in VR.
-  - Currently master's student in KHU HIT
+- **하창범**🎓, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
+- **전민하**🎓, Satellite WIM Object Selection in VR.
   - This work is submitted to VRST2024
   - [Video](), [Github]()
 - **김민정**, Yoga pose feedback system through motion recognition and motion analysis in VR. [Github](https://github.com/mmindoong/-2023-1-FitnessVRUnity).
@@ -42,6 +38,6 @@ Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 - Non-Pass: 1 students
 
 ### 2022 Fall Semester
-- **이민우**, Design and Implement Exo-skeletons for Haptic Interaction.
-  - Currently master's student in KHU HIT
+- **이민우**🎓, Design and Implement Exo-skeletons for Haptic Interaction.
+  - 
 - **문희찬**, Using bio-signals for game interaction design 
