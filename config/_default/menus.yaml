@@ -33,8 +33,7 @@ main:
     url: people
     weight: 30    
   - name: Publications
-    url : publications
-    #url: https://lokilike.netlify.app/about/
+    url : publication
     weight: 40
   # - name: Research
   #   url: https://lokilike.netlify.app/research/
