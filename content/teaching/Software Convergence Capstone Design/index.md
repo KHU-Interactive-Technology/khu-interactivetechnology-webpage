@@ -16,6 +16,7 @@ This work is submitted to VRST2024📖.
 - **이정민**🎓, Microgesture Gesture in Wearable Interfaces for Enhancing Input Vocabulary. 🔬[Github](https://github.com/ketchupmustardmayonnaise/SWCD_HandInterface). [Video]().
 - **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git). [Video]().
 - **유다인**, Image Style Transfer for Game Objects Texturing from ClipTrasnfer. 🔬[Github](https://github.com/dain6978/CLIPstyler). [Video](https://youtu.be/kANqUX90LY8).
+{{< youtube kANqUX90LY8 >}}
 - **맹주환, 권용준**, Autumatic Story Authoring Tool from LLM Agents. [Github](https://github.com/JuhwanMaeng/capstone_2024-2). [Video]().
 
 ### 2024 Fall Semester
