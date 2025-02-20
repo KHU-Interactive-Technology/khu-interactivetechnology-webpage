@@ -10,8 +10,7 @@ Semeter: Fall 2022, Spring 2023, Fall 2023, Spring 2024, Fall 2024, Spring 2025
 🔬: projects with this mark denote interesting and promising topics for future capstone design projects.<br>
 
 ### GOTY Projects
-- **전민하**🎓, Satellite: WIM Object Selection in VR. [Video](https://youtu.be/DC_WoAiAVtk). <br>
-This work is submitted to VRST2024📖.
+- **전민하**🎓, Satellite: WIM Object Selection in VR. [Video](https://youtu.be/DC_WoAiAVtk). <br> This work is submitted to VRST2024📖.
 {{< youtube 8BrOsh9toO8 >}}
 - **이정민**🎓, Microgesture Gesture in Wearable Interfaces for Enhancing Input Vocabulary. 🔬[Github](https://github.com/ketchupmustardmayonnaise/SWCD_HandInterface). [Video]().
 - **윤주환**, Gaze-based facial gestural interaction for controlling the view of the first-person perspective. 🔬[Github(Unity)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Unity.git), [Github(Python)](https://github.com/Juhwan3d/Eyetracking_FacialGesture_DynamicRotationGain_Python.git). [Video]().
@@ -46,8 +45,7 @@ This work is submitted to VRST2024📖.
 
 ### 2023 Spring Semester
 - **하창범**🎓, MoviEmoji: Improving emotional communication skill in messenger chat using movie scenes.
-- **전민하**🎓, Satellite: WIM Object Selection in VR. [Video](https://youtu.be/DC_WoAiAVtk).
-This work is submitted to VRST2024📖.
+- **전민하**🎓, Satellite: WIM Object Selection in VR. [Video](https://youtu.be/DC_WoAiAVtk). <br> This work is submitted to VRST2024📖.
 - **김민정**, Yoga pose feedback system through motion recognition and motion analysis in VR. 🔬[Github](https://github.com/mmindoong/-2023-1-FitnessVRUnity).
 - **신필규**, An Improvement of Haptic Feedback with Acceleration Sensor. 
 - **Piao Yongyi, Yuan Guangzhe**, Ping Pong AI & Data Collection. [Github](https://github.com/PIAOYONGYI2019102072/2023-1SWCD).
