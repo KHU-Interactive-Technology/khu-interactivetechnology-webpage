@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Sangjun Park
+title: Inhyuk Song
 
 # Full Name (for SEO)
-first_name: Sangjun
-last_name: Park
+first_name: Inhyuk
+last_name: Song
 
 # Username (this should match the folder name)
 authors:
-  - Sangjun Park
+  - Inhyuk Song
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,9 +25,9 @@ organizations:
 bio: 
 
 interests:
-  - HCI
-  - Eye tracking
+  - Cognitive Science
   - XR
+  - Human-centered AI
 
 education:
   courses:
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sjpark514@khu.ac.kr'
+    link: 'mailto:cherished990204@khu.ac.kr'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

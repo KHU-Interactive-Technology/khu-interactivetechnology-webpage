@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Minha Jeon
+title: Yeseo Park
 
 # Full Name (for SEO)
-first_name: Minha
-last_name: Jeon
+first_name: Yeseo
+last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - Minha Jeon
+  - Yeseo Park
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -25,15 +25,15 @@ organizations:
 bio: 
 
 interests:
-  - XR
   - HCI
-  - Controller
+  - XR
+  - Generative AI
 
 education:
   courses:
     - course: BSc in Software Convergence
       institution: Kyung Hee University
-      year: 2024
+      year: 2027
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,10 +42,8 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:harororo721@khu.ac.kr'
-  - icon: house
-    icon_pack: fas
-    link: 'https://minha-j.github.io/'
+    link: 'mailto:yeseo@khu.ac.kr'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,10 +53,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-highlight_name: true
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master's Student
+  - Undergraduate Students
 ---

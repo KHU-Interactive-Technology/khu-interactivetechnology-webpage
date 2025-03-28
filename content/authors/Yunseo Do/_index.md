@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Minha Jeon
+title: Yunseo Do
 
 # Full Name (for SEO)
-first_name: Minha
-last_name: Jeon
+first_name: Yunseo
+last_name: Do
 
 # Username (this should match the folder name)
 authors:
-  - Minha Jeon
+  - Yunseo Do
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -25,15 +25,15 @@ organizations:
 bio: 
 
 interests:
+  - AI-based Interaction
+  - Contents generation
   - XR
-  - HCI
-  - Controller
 
 education:
   courses:
-    - course: BSc in Software Convergence
+    - course: BSc in Artificial Intelligence
       institution: Kyung Hee University
-      year: 2024
+      year: 2027
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,10 +42,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:harororo721@khu.ac.kr'
+    link: 'mailto:ysdoh0209@khu.ac.kr'
   - icon: house
     icon_pack: fas
-    link: 'https://minha-j.github.io/'
+    link: 'https://simple-board-99d.notion.site/Hello-I-m-Yunseo-Do-bca71b3fd8c042938ffd6da7bb61f3e8?pvs=4'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,10 +56,8 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-highlight_name: true
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master's Student
+  - Undergraduate Students
 ---
