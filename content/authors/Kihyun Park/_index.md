@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Gihyeon Park
+title: Kihyun Park
 
 # Full Name (for SEO)
-first_name: Gihyeon
+first_name: Kihyun
 last_name: Park
 
 # Username (this should match the folder name)
 authors:
-  - Gihyeon Park
+  - Kihyun Park
 
 # Is this the primary user of the site?
 superuser: false
@@ -25,9 +25,9 @@ organizations:
 bio: 
 
 interests:
-#  - HCI
-#  - XR
-#  - Generative AI
+  - HCI
+  - Interaction Design
+  - XR
 
 education:
   courses:
