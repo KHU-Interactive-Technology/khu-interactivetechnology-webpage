@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Jaehyeon Byeon
+title: Jaehyun Byun
 
 # Full Name (for SEO)
-first_name: Jaehyeon
-last_name: Byeon
+first_name: Jaehyun
+last_name: Byun
 
 # Username (this should match the folder name)
 authors:
-  - Jaehyeon Byeon
+  - Jaehyun Byun
 
 # Is this the primary user of the site?
 superuser: false
@@ -39,10 +39,10 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:yeseo@khu.ac.kr'
+social:
+  - icon: house
+    icon_pack: fas
+    link: 'https://jaehyunbyun.netlify.app/'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
