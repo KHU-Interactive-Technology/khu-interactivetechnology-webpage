@@ -1,9 +1,9 @@
 ---
 # Display name
-title: KHU HIT
+title: KHU ITEM
 
 # Full Name (for SEO)
-first_name: HIT
+first_name: ITEM
 last_name: KHU
 
 # Username (this should match the folder name)
@@ -71,6 +71,6 @@ user_groups:
 
 ---
 
-The **Human & Interactive Technology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University. 
+The **Interactive Technology & Methodology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University. 
 
 Our research focuses on **designing novel input and output interfaces fostering seamless interactions** between humans and computers.

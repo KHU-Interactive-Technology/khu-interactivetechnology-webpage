@@ -25,9 +25,9 @@ content:
     country: South Korea
     country_code: KR
   coordinates:
-    latitude: '37.2459'
-    longitude: '127.0770'
-  directions: Woojungwon Offfice 7031
+    latitude: '37.2395'
+    longitude: '127.0834'
+  directions: Room 325, College of Software Convergence
   office_hours:
     - 'Monday 17:00 to 18:00'
   #appointment_url: 'https://calendly.com'
@@ -54,7 +54,7 @@ design:
   
 ---
 
-The Human & Interactive Technology Laboratory is recruiting M.S & Ph.D. students for the upcoming semester! <br>
+The Interactive Technology & Methodology Laboratory is recruiting M.S & Ph.D. students for the upcoming semester! <br>
 
 If you are interested in designing 3d-printed structure for sensing techniques and haptic interactions & new types of I/O interfaces for game and metaverse, please reach out to Seungjae Oh. 
 
