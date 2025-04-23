@@ -54,7 +54,7 @@ design:
   
 ---
 
-The Interactive Technology & Methodology Laboratory is recruiting M.S & Ph.D. students for the upcoming semester! <br>
+The Interactive TEchnology & Methodology Laboratory is recruiting M.S & Ph.D. students for the upcoming semester! <br>
 
 If you are interested in designing 3d-printed structure for sensing techniques and haptic interactions & new types of I/O interfaces for game and metaverse, please reach out to Seungjae Oh. 
 
