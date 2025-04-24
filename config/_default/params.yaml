@@ -42,7 +42,8 @@ header:
     show_search: true
     highlight_active_link: false
     logo:
-      filename: "logo.svg"
+      filename: "logo.png"
+      text: "Interactive TEchnology & Methodology"
 
 # Site footer
 
