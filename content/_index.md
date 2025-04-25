@@ -5,9 +5,10 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+
+  - block: markdown
     content: 
-      title: |
+      text: |
         Shaping The Next Interaction
 
   - block: hero
