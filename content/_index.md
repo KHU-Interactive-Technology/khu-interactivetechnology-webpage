@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Beyond Technology
+        Shaping the next interaction
       image:
         filename: landing.jpg
       text: |
