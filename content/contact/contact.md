@@ -56,7 +56,7 @@ design:
 
 The Interactive TEchnology & Methodology Laboratory is recruiting M.S & Ph.D. students for the upcoming semester! <br>
 
-If you are interested in designing 3d-printed structure for sensing techniques and haptic interactions & new types of I/O interfaces for game and metaverse, please reach out to Seungjae Oh. 
+If you are interested in designing 3d-printed structure for sensing techniques and haptic interactions & new types of I/O interfaces for game and metaverse, please reach out to Seungjae Oh (mail: oreo329@khu.ac.kr). 
 
 경희대학교 소프트웨어융합학과 인터랙티브 테크놀로지 연구실은 차세대 디지털 플랫폼(AR, VR, Digital Twin, Metaverse), 디지털 콘텐츠, 게임 관련 학제적 연구를 수행하는 것을 목표로 합니다.
 
@@ -68,4 +68,4 @@ If you are interested in designing 3d-printed structure for sensing techniques a
 ✔️학부 연구생: 유급인턴가능, 국내외 학술대회 투고 및 발표 지원, 연구공간 등<br>
 ✔️석박사 과정: 최고수준 장학금, 국외 학술대회 지원(통합 및 박사 과정), 연구 장비 및 환경, 논문 투고 지원금, 국내외 학술대회 투고 및 발표 지원 등<br>
 
-저희 연구실과 함께 연구를 수행할 학생은 자기소개서, 간단한 포트폴리오, 성적증명서, 희망 연구 분야를 정해서 자유 양식으로 작성 후 이메일(오승재 교수: oreo329@khu.ac.kr)로 연락주시기 바랍니다. 
+저희 연구실과 함께 연구를 수행할 학생은 자기소개서, 간단한 포트폴리오, 성적증명서, 희망 연구 분야를 정해서 자유 양식으로 작성 후 이메일(오승재 교수: oreo329@khu.ac.kr)을 남겨주기 바랍니다. 
