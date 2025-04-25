@@ -9,7 +9,7 @@ sections:
   - block: hero
     content:
       title: |
-        Shaping The Next Interaction
+        <h1>Shaping The Next Interaction</h1>
       text: |
         The **Interactive TEchnology & Methodology Laboratory** is an interdisciplinary research group in the Department of Software Convergence at Kyung Hee University. 
 
@@ -20,7 +20,7 @@ sections:
           image: 
             filename: landing.jpg
           filters:
-            brightness: 0.8
+            brightness: 0.3
             parallax: false
             position: center
       # spacing:
