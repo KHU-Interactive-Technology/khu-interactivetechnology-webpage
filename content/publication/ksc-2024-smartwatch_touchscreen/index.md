@@ -31,7 +31,8 @@ abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상�
 # interactions through empirical evidence.
 
 tags:
-#  - Haptics
+ - Sensing Techniques
+ - Physical AI
 #  - ACM CHI
 featured: true
 
