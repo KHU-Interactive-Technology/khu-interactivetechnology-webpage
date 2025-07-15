@@ -20,12 +20,11 @@ Minha did interesting work on VR interaction techniques with 3D portals and publ
 {{< youtube 8BrOsh9toO8 >}}
 
 We also joined a collabrative research project with Prof. Seungwoo Je and Junyu at SUSTECH, China.
-Extendlibur got accepted to UIST 2025. 
-Extendlibur is a haptic retargeting for multiple users having different length virtual objects but the same physical stick, which is designed to deliver realistic haptic feedback from a single physical proxy to multiple virtual objects.
-
-
+<!-- Extendlibur got conditionally accepted to UIST 2025.  -->
 
 <!--more-->
+<!-- Extendlibur is a haptic retargeting for multiple users having different length virtual objects but the same physical stick, which is designed to deliver realistic haptic feedback from a single physical proxy to multiple virtual objects. -->
+
 Thanks to Prof. Sangkeun Park (KHU).<br>
 Congratulations to Prof. Seungwoo Je & Junyu (SUSTECH).
 
