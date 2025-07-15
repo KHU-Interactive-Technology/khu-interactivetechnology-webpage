@@ -11,6 +11,12 @@ authors:
   - "Jinyoung Lee"
   - "Seungmoon Choi"
   - "Seungjae Oh"
+author_notes:
+  - 
+  - 
+  -
+  -
+  - "Corresponding Author"  
 date: '2025-04-29T00:00:00Z'
 doi: ''
 
@@ -24,7 +30,7 @@ publication_types: ['conference-international']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of CHI Conference on Human Factors in Computing Systems*
-publication_short: 'CHI 2025 (To Appear)'
+publication_short: 'CHI 2025'
 
 abstract: Providing haptic feedback for soft, deformable objects is challenging, requiring complex mechanical hardware combined with modeling and rendering software. As an alternative, we advance the concept of self-haptics, where the user's own body delivers physical feedback, to convey dynamically varying softness in VR. Skin can exhibit different levels of contact softness by altering the biomechanical state of the body. We propose SkinHaptics, a device-free approach that changes the states of musculoskeletal structures and virtual hand-object representations. In this study, we conduct three experiments to demonstrate SkinHaptics. Using the same scale, we measure skin softness across various hand poses and contact points and evaluate the just noticeable difference in skin softness. We investigate the effect of hand-object representations on self-haptic interactions. Our findings indicate that the visual representations have a significant influence on the embodiment of a self-haptic hand, and the degree of the hand embodiment strongly affects the haptic experience.
 
@@ -38,8 +44,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: https://lokilike.netlify.app/research/
-url_pdf: https://lokilike.netlify.app/about/
+    url: https://dl.acm.org/doi/10.1145/3706598.3713891
+url_pdf: https://lokilike.netlify.app/research/
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

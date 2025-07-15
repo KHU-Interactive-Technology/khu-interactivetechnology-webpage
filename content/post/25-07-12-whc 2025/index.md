@@ -7,7 +7,7 @@ profile: true
 authors: 
   - admin
 
-title: WHC2025 2 Demonstrations & 1 SIC
+title: WHC 2025 2 Demonstrations & 1 SIC
 date: 2025-07-12
 image:
   focal_point: 'top'

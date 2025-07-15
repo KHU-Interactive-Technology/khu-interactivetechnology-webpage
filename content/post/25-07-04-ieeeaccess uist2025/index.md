@@ -7,7 +7,7 @@ profile: true
 authors: 
   - admin
 
-title: IEEE ACCESS Portallite & UIST2025 Extendlibur
+title: IEEE ACCESS Portallite & UIST 2025 Extendlibur
 date: 2025-07-03
 image:
   focal_point: 'top'
