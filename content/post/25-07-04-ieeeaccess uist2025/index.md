@@ -8,7 +8,7 @@ authors:
   - admin
 
 title: IEEE ACCESS Portallite & UIST2025 Extendlibur
-date: 2025-07-01
+date: 2025-07-03
 image:
   focal_point: 'top'
 ---
@@ -16,7 +16,6 @@ image:
 Recently, our group publised two papers. 
 
 Minha did interesting work on VR interaction techniques with 3D portals and publish this work at IEEE Access ([paper](https://ieeexplore.ieee.org/document/11031442/) & [video](https://www.youtube.com/watch?v=8BrOsh9toO8&feature=youtu.be)).
-
 {{< youtube 8BrOsh9toO8 >}}
 
 We also joined a collabrative research project with Prof. Seungwoo Je and Junyu at SUSTECH, China.
