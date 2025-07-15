@@ -7,19 +7,24 @@ profile: true
 authors: 
   - admin
 
-title: CHI2025 SkinHaptics 
-date: 2025-01-12
+title: WHC2025 2 Demonstrations & 1 SIC
+date: 2025-07-12
 image:
   focal_point: 'top'
 ---
 
-SkinHaptics got accepted to CHI 2025. 
-SkinHaptics is a device-free approach that changes the states of musculoskeletal structures and virtual hand-object representations for self-haptic interactions.
+Our group joined two demonstrations at WHC 2025. 
+One for SkinHaptics (published at CHI2025) and PalmTouch (not published yet) 
+PalmTouch recieved special recognitions of best demonstration award this year!
 
-Congratulations to Minha and Jinyoung! 
+Congratulations to Kevin! 
+
+Lastly, two undergraduate researcher of our group presented thier work in the Student Innovation Contest (sponsered by bHaptics) at WHC 2025.
+
+Great work, Inhyuk & Kihyun.
 
 <!--more-->
-Thank Jungeun and Prof. Seungmoon Choi (POSTECH).
-Thank Minwoo, Changbeom, Jungmin, and Younghyun (KHU) for good support.
+Congratulations to Kevin (KHU), and Thanks to Prof. Seokhee Jeon (KHU) for inviting me to this project.
+
 
 
