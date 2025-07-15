@@ -40,7 +40,7 @@ featured: false
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11031442
+url_pdf: https://ieeexplore.ieee.org/document/11031442
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

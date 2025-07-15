@@ -40,7 +40,7 @@ featured: false
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: 10.1109/ACCESS.2025.3566402
+url_pdf: https://ieeexplore.ieee.org/document/10982068
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
