@@ -7,7 +7,7 @@ profile: true
 authors: 
   - admin
 
-title: CHI2025 SkinHaptics 
+title: CHI 2025 SkinHaptics 
 date: 2025-01-12
 image:
   focal_point: 'top'
@@ -21,5 +21,4 @@ Congratulations to Minha and Jinyoung!
 <!--more-->
 Thank Jungeun and Prof. Seungmoon Choi (POSTECH).
 Thank Minwoo, Changbeom, Jungmin, and Younghyun (KHU) for good support.
-
 
