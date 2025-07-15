@@ -7,19 +7,23 @@ profile: true
 authors: 
   - admin
 
-title: CHI2025 SkinHaptics 
-date: 2025-01-12
+title: IEEE ACCESS Portallite & UIST2025 Extendlibur
+date: 2025-07-01
 image:
   focal_point: 'top'
 ---
 
-SkinHaptics got accepted to CHI 2025. 
+Recently, our group publised two papers. 
+
+Minha did interesting work on VR interaction techniques with 3D portals and publish this work at IEEE Access (paper[https://ieeexplore.ieee.org/document/11031442/] & video[https://www.youtube.com/watch?v=8BrOsh9toO8&feature=youtu.be]).
+
+ got accepted to CHI 2025. 
 SkinHaptics is a device-free approach that changes the states of musculoskeletal structures and virtual hand-object representations for self-haptic interactions.
 
 Congratulations to Minha and Jinyoung! 
 
 <!--more-->
-Thank Jungeun and Prof. Seungmoon Choi (POSTECH).
-Thank Minwoo, Changbeom, Jungmin, and Younghyun (KHU) for good support.
+Thank Prof. Sangkeun Park (KHU).
+Thank Prof. Seungwoo Je (SUSTECH) for inviting us to the Extendliber project.
 
 

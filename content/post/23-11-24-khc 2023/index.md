@@ -8,7 +8,8 @@ authors:
   - admin
 
 title: Korea Haptics Conference - Student Innovation Winner! 
-date: 2023-11-24
+date: 2025-06-24
+# date: 2023-11-24
 image:
   focal_point: 'top'
 ---
