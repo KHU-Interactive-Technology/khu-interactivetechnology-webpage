@@ -15,7 +15,7 @@ image:
 
 Our group joined two demonstrations at WHC 2025. <br>
 One for SkinHaptics (published at CHI2025) and PalmTouch (not published yet) 
-PalmTouch recieved special recognitions of best demonstration award this year!
+PalmTouch received special recognitions of best demonstration award this year!
 
 Congratulations to Kevin! 
 
