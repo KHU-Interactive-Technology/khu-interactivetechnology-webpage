@@ -4,18 +4,20 @@
 draft: false 
 profile: true
 
-title: 'Classifying Body Parts and Hand Gestures Via Smartwatch Touchscreen'
+title: 'Development and Evaluation of a Vision‑Based Sensing Platform for Deformable Structures'
 authors:
-  - "Jeongmin Lee"
+  - "Yeseo Park"
+  - "Minha Jeon"
   - "Seungjae Oh"
 author_notes:
   -
+  -
   - "Corresponding Author"  
-date: '2024-12-18T00:00:00Z'
+date: '2025-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-07-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,9 +26,9 @@ publication_types: ['domestic-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: Korean Institute of Information Scientists and Engineers
-publication_short: 'KSC 2024'
+publication_short: 'KCC 2025'
 
-abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상되었지만 정작 실제로는 이 기능들을 제대로 활용하지 못하고 있다. 특히 이 문제는 크기가 너무 작아서 터치스크린으로 정확한 조작을 하기 힘든 스마트워치에서 빈번히 발생한다. 때문에 스마트워치 터치스크린을 통한 신체 부위와 손 제스처 판별 기술을 제안하여 터치 제스처의 확장을 기대하고자 한다. 해당 기술을 구현하기 위해 가공되지 않은 터치 데이터를 취득하였으며, 이를 위해 스마트워치 커널의 터치드라이버를 변형하였다. 이후 8개의 데이터 라벨에 대하여 총 2600여 개의 데이터를 수집하였으며, 이렇게 얻어진 데이터를 이용하여 합성곱 신경망을 학습시켰다. 학습시킨 모델은 89.4%의 정확도로 신체 부위와 손 제스처들을 구분하였다.
+abstract: 본 연구는 deformable 구조체에 가해지는 압축(pressure), 전단(shear), 비틀림(twist) 등 외부적 변형을 시각적으로 가장 정확하게 포착할 수 있는 광학 센서를 탐색한다. 외부 광원을 완전히 차단한 테스트 환경에서 동일한 구조체에 서로 다른 변형을 적용해보고, 세 가지 상용 저가 센서인 Raspberry Pi Camera Module 3 Wide, Raspberry Pi Camera Module 3 NoIR Wide, Logitech G402 광학 센서가 획득한 변형 종류별 이미지의 선명도와 밝기를 이용해 변형 구분에 대한 특징을 막대 그래프와 클러스터 중심 기반 분포 분석을 통해 비교 및 평가한다. 연구 결과 가장 우수한 센서를 도출함으로써, 향후 해당 센서를 활용하여 다양한 입력에 대해 비전 기반의 센싱 인터페이스 개발 가능성을 제시한다.
 
 
 # Summary. An optional shortened abstract.
@@ -35,14 +37,14 @@ abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상�
 
 tags:
  - Sensing Techniques
- - Physical AI
+#  - Physical AI
 #  - ACM CHI
 featured: true
 
 #links:
 #  - name: Custom Link
 #    url: https://lokilike.netlify.app/research/
-url_pdf: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042212
+url_pdf: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318657
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

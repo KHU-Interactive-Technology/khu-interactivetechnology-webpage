@@ -4,18 +4,18 @@
 draft: false 
 profile: true
 
-title: 'Classifying Body Parts and Hand Gestures Via Smartwatch Touchscreen'
+title: 'Gaze-Conditioned Grasp Synthesis via 2D Segmentation and 3D Reconstruction'
 authors:
-  - "Jeongmin Lee"
+  - "Yunseo Do"
   - "Seungjae Oh"
 author_notes:
   -
   - "Corresponding Author"  
-date: '2024-12-18T00:00:00Z'
+date: '2025-12-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-12-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,9 +24,9 @@ publication_types: ['domestic-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: Korean Institute of Information Scientists and Engineers
-publication_short: 'KSC 2024'
+publication_short: 'KSC 2025'
 
-abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상되었지만 정작 실제로는 이 기능들을 제대로 활용하지 못하고 있다. 특히 이 문제는 크기가 너무 작아서 터치스크린으로 정확한 조작을 하기 힘든 스마트워치에서 빈번히 발생한다. 때문에 스마트워치 터치스크린을 통한 신체 부위와 손 제스처 판별 기술을 제안하여 터치 제스처의 확장을 기대하고자 한다. 해당 기술을 구현하기 위해 가공되지 않은 터치 데이터를 취득하였으며, 이를 위해 스마트워치 커널의 터치드라이버를 변형하였다. 이후 8개의 데이터 라벨에 대하여 총 2600여 개의 데이터를 수집하였으며, 이렇게 얻어진 데이터를 이용하여 합성곱 신경망을 학습시켰다. 학습시킨 모델은 89.4%의 정확도로 신체 부위와 손 제스처들을 구분하였다.
+abstract: 본 연구는 아이트래커를 통해 추출한 1인칭 시점 이미지(egocentric image)와 시선 좌표 정보(gaze point)를 조건으로 하여 사용자가 응시한 물체를 인식하고 3D로 복원한 뒤, 해당 객체에 대한 자연스러운 파지 자세 생성(grasp synthesis)을 수행하는 엔드투엔드 파이프라인을 제안한다. 기존 연구는 시선 정보를 로봇의 파지 대상 선택이나 행동 분류에 활용하는 데 그쳤으며, 이를 3D 복원 및 인간 손 기반 파지 생성까지 연결한 사례는 드물다. 본 연구는 시선 기반 2D 분할–3D 복원–파지 생성 단계를 하나의 흐름으로 통합하였으며, 사용자 평가에서 객체 선택 정확도, 분할 품질, 단계 간 물체 일관성에서 높은 타당성을 보였다. 이를 통해 시선 기반 조작 시스템의 새로운 가능성을 제시한다.
 
 
 # Summary. An optional shortened abstract.
@@ -34,15 +34,15 @@ abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상�
 # interactions through empirical evidence.
 
 tags:
- - Sensing Techniques
- - Physical AI
+  - Eye Tracking
+  - 3D Reconstruction
 #  - ACM CHI
 featured: true
 
 #links:
 #  - name: Custom Link
 #    url: https://lokilike.netlify.app/research/
-url_pdf: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042212
+# url_pdf: TBD
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

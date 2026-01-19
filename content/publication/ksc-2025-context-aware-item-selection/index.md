@@ -4,18 +4,18 @@
 draft: false 
 profile: true
 
-title: 'Classifying Body Parts and Hand Gestures Via Smartwatch Touchscreen'
+title: 'Item Selection through Context-Aware Gesture Understanding: Experimental Validation and Framework Proposal'
 authors:
-  - "Jeongmin Lee"
+  - "Yeseo Park"
   - "Seungjae Oh"
 author_notes:
   -
   - "Corresponding Author"  
-date: '2024-12-18T00:00:00Z'
+date: '2025-12-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-12-16T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,9 +24,9 @@ publication_types: ['domestic-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: Korean Institute of Information Scientists and Engineers
-publication_short: 'KSC 2024'
+publication_short: 'KSC 2025'
 
-abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상되었지만 정작 실제로는 이 기능들을 제대로 활용하지 못하고 있다. 특히 이 문제는 크기가 너무 작아서 터치스크린으로 정확한 조작을 하기 힘든 스마트워치에서 빈번히 발생한다. 때문에 스마트워치 터치스크린을 통한 신체 부위와 손 제스처 판별 기술을 제안하여 터치 제스처의 확장을 기대하고자 한다. 해당 기술을 구현하기 위해 가공되지 않은 터치 데이터를 취득하였으며, 이를 위해 스마트워치 커널의 터치드라이버를 변형하였다. 이후 8개의 데이터 라벨에 대하여 총 2600여 개의 데이터를 수집하였으며, 이렇게 얻어진 데이터를 이용하여 합성곱 신경망을 학습시켰다. 학습시킨 모델은 89.4%의 정확도로 신체 부위와 손 제스처들을 구분하였다.
+abstract: 가상현실과 증강현실 환경에서 제스처 인식은 직관적인 상호작용을 가능하게 하는 핵심 기술로 주목받아 왔다 그러나 기존 연구들은 주로 인식 정확도에 집중하여 실제 맥락을 반영한 의도 파악에는 한계가 있었다. 본 연구에서는 컨텍스트를 상황 요소(전투, 요리, 제작)로 정의하고, 이를 활용하여 사용자가 인벤토리 내 특정 아이템을 사용하는 제스처를 취했을 때, 보다 의도에 부합하는 아이템 자동 선택이 가능함을 검증한다. MediaPipe로 수집한 제스처 데이터를 활용해 동일한 모델 기반에서 컨텍스트 입력의 유무를 비교한 결과, 컨텍스트를 반영했을 때 아이템 선택의 정확도가 뚜렷하게 증가하였다. 이를 통해 컨텍스트가 제스처 기반 인터랙션의 정확성과 일관성에 기여함을 확인하였으며, 나아가 제스처 인코더와 컨텍스트 인코더를 결합한 소프트트리 기반 프레임워크를 제안한다.
 
 
 # Summary. An optional shortened abstract.
@@ -34,15 +34,15 @@ abstract: 기술이 발달함에 따라 터치스크린 또한 성능이 향상�
 # interactions through empirical evidence.
 
 tags:
- - Sensing Techniques
- - Physical AI
+ - Context-Aware Gesture
+#  - Physical AI
 #  - ACM CHI
 featured: true
 
 #links:
 #  - name: Custom Link
 #    url: https://lokilike.netlify.app/research/
-url_pdf: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12042212
+# url_pdf: TBD
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
