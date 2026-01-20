@@ -1,7 +1,7 @@
 ---
 #Basic Setting: draft - 해당 내용 안보이게; profile - 아래 author icon
 #참고: https://docs.hugoblox.com/reference/page-features/#page-resources-attachments-and-links
-draft: true ############# 
+draft: false ############# 
 profile: true
 
 title: 'CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatting and Real-time 360° Streaming'
