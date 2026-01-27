@@ -61,3 +61,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+frontmatter:
+  lastmod:
+    - date
