@@ -43,6 +43,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:cherished990204@khu.ac.kr'
+  - icon: house
+    icon_pack: fas
+    link: 'https://lakestone.synology.me'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
