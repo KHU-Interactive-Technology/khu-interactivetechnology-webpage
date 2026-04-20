@@ -42,7 +42,7 @@ featured: true
 #links:
 #  - name: Custom Link
 #    url: https://lokilike.netlify.app/research/
-# url_pdf: TBD
+url_pdf: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577724
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

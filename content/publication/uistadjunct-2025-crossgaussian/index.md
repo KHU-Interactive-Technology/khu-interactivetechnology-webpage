@@ -8,7 +8,7 @@ title: 'CrossGaussian: Enhancing Remote Collaboration through 3D Gaussian Splatt
 authors:
   - "Jaehyun Byun"
   - "Byunghoon Kang"
-  - "Youghyun Gwon"
+  - "Younghyun Gwon"
   - "Hongsong Choi"
   - "Yunseo Do"
   - "Eunho Kim"
@@ -27,7 +27,7 @@ publication_types: ['conference-extended-abstract']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology*
-publication_short: 'UIST Adjunct 2025 (WIP Poster)'
+publication_short: 'ACM UIST Adjunct 2025 (WIP Poster)'
 
 abstract: Remote users often face significant challenges in remote collaboration systems when joining virtual scenes reconstructed from a local user’s environment. They are disadvantaged by the information asymmetry inherent in a shared virtual environment compared to local users. We present CrossGaussian, a VR collaboration system designed to address these limitations by providing remote users with a comprehensive 3D interactive view of the shared environment, created using 3DGS. It blends 360° video streaming and a large-scale 3DGS reconstruction via our automated pipeline. We then define the design space for visualization and interaction techniques that combine wide-coverage 3D and responsive 360° scenes.
 

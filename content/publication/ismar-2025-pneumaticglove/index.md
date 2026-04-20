@@ -26,7 +26,7 @@ publication_types: ['conference-extended-abstract']
 
 # Publication name and optional abbreviated publication name.
 publication: IEEE International Symposium on Mixed and Augmented Reality Adjunct
-publication_short: 'IEEE ISMAR Adjunct (Demo Paper)'
+publication_short: 'IEEE ISMAR Adjunct 2025 (Demo Paper)'
 
 abstract: Soft pneumatic gloves provide lightweight, intrinsically safe haptic feedback, but such systems are often constrained by bulky pneumatic hardware and limited controllability. We present a compact and responsive pneumatic glove system enabled by positive-negative actuation capability. This bidirectional actuation is achieved using a single pneumatic unit, resulting in a system that is compact enough to fit within a desktop-sized form factor. The glove integrates soft actuators with commercial motion capture systems for hand pose tracking, enabling precise operation via closed-loop control. A modular middleware supports flexible operation with diverse hand pose sources, such as vision-based hand pose estimations from RGB cameras, HMDs, and depth sensors. This versatile yet compact platform extends the applicability of pneumatic gloves beyond rehabilitation to domains that require fast and responsive feedback, such as immersive remote training in VR.
 

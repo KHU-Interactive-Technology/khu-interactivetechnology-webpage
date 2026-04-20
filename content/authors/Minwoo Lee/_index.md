@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -33,6 +33,9 @@ education:
     - course: BSc in Mechanical Engineering
       institution: Kyung Hee University
       year: 2024
+    - course: MSc in Software Convergence
+      institution: Kyung Hee University
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -57,5 +60,5 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master's Student
+  - Alumni
 ---
