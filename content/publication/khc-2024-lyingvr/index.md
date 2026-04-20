@@ -24,7 +24,7 @@ publication_types: ['domestic-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: Korea Haptics Society
-publication_short: 'KHS 2024'
+publication_short: 'KHC 2024'
 
 abstract: The existing movement methods in virtual reality (VR) have largely been designed under the assumption that users are either sitting or standing. However, there is a growing interest in using VR for medical or rehabilitation purposes, as well as for relaxation applications. This highlights the need for suitable locomotion methods when experiencing VR in a lying position. This paper explores factors to maintaining immersion and convenience when users are lying down, and we propose a space-floating movement method and relevant vibrotactile feedback.
 
@@ -43,7 +43,7 @@ featured: true
 #links:
 #  - name: Custom Link
 #    url: https://lokilike.netlify.app/research/
-url_pdf: /publication/khs-2024-lyingvr/conference-paper.pdf
+url_pdf: /publication/khc-2024-lyingvr/conference-paper.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
