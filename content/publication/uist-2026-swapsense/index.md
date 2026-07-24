@@ -4,24 +4,26 @@
 draft: false ############# 
 profile: true
 
-title: 'Extendlibur: Dynamic Haptic Retargeting for Length-Mismatched Proxies in Co-Located VR'
+title: 'SwapSense: Reusable Vision-Based Contact Force Sensing Across Swappable Passive Haptic Modules'
 authors:
-  - "Junyu Chen"
-  - "Qianyuan Zou"
-  - "Yingjie Chang"
-  - "Seungjae Oh"
+  - "Minha Jeon"
+  - "Yeseo Park"
+  - "Inhyuk Song"
+  - "Yilong Lin"
   - "Seungwoo Je"
+  - "Seungjae Oh"
 author_notes:
-  - 
+  -
   - 
   -
   -
-  - "Corresponding Author"  
-date: '2025-07-23T00:00:00Z'
+  -
+  - "Corresponding Author"
+date: '2026-11-02T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-04T00:00:00Z'
+publishDate: '2026-05-02T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,19 +32,21 @@ publication_types: ['conference-international']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology*
-publication_short: 'ACM UIST 2025'
+publication_short: 'ACM UIST 2026'
 
-abstract: Haptic retargeting is an effective technique to deliver realistic haptic feedback from a single physical proxy to multiple virtual objects. Previous studies have mainly focused on single-user scenarios involving virtual objects with varying shapes or locations, but few have explored how to retarget multiple virtual objects that are jointly manipulated or interacted with by multiple users. This paper presents a new haptic retargeting technique for co-located VR. It allows two users to interact using shape-mismatched virtual tools, specifically lengths that mismatch the physical props they hold. By gradually offsetting the virtual tools, the technique ensures appropriate haptic feedback and creates the illusion of using tools with different lengths. We conducted a user study to examine how much the virtual tool’s length can be altered using our approach in our setup without breaking the illusion for users. Based on the findings, we proposed two example uses and validated in a follow-up application study. The results show that our method can provide more realistic and enjoyable experiences in shared VR environments.
+abstract: The haptic qualities of physical interfaces—such as key-click sensations and stylus-tip stiffness—strongly shape user experience beyond functional performance. Prior work has explored reconfigurable passive structures to diversify such haptic experiences, but existing solutions typically sacrifice rich sensing capabilities or require dedicated sensing modules for each configuration. In this paper, we present SwapSense, a modular vision-based haptic I/O framework that physically decouples a shared sensing module from interchangeable haptic augmentation modules. A camera captures sequential deformation of a shared sensing substrate, and an encoder–decoder network estimates contact forces, while each attached augmentation module independently modulates force–displacement characteristics. Our results show that a model trained for pressing force estimation can generalize across users and support effective adaptation to previously unseen augmentation components. Owing to its modular AI architecture, the model efficiently adapts to unseen components with approximately 15 minutes of fine-tuning. A complementary perceptual study further shows that the five haptic augmentations span a perceptually diverse twodimensional perceptual space. Together, these results demonstrate that SwapSense enables reusable contact force sensing and perceptually expressive passive haptic reconfiguration within a single framework.
 
 # Summary. An optional shortened abstract.
 summary: .
 
 tags:
   - Haptics
+  - Sensing
   - ACM UIST
 featured: true
 
 links:
+  - name: In Press
 # url_pdf: https://lokilike.netlify.app/research/
 # url_code: '#'
 # url_dataset: '#'
