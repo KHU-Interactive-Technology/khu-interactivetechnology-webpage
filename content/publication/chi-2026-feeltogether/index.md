@@ -15,6 +15,16 @@ authors:
   - Hyotaek Jeon
   - Seungjae Oh
   - Sungahn Ko
+author_notes:
+  - 
+  - 
+  -
+  -
+  - 
+  -
+  -
+  -
+  - "Corresponding Author"  
 date: '2026-04-29T00:00:00Z'
 doi: '10.1145/3772318.3791947'
 
