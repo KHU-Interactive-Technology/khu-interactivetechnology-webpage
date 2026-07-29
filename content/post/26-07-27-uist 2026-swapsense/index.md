@@ -10,7 +10,7 @@ authors_preview:
 authors: 
   - admin
 
-title: SwapSense is accepted at UIST 2026.
+title: SwapSense is conditionally accepted at UIST 2026.
 date: 2026-07-27
 image:
   focal_point: 'top'
@@ -18,5 +18,5 @@ image:
 
 We're excited to share that SwapSense, developed through the dedicated research of Minha, Yeseo, and Inhyuk in our lab, has been accepted to UIST 2026. SwapSense is a modular vision-based haptic I/O framework that physically decouples a shared sensing module from interchangeable haptic augmentation modules. 
 
-Congratulations, and great work, Minha!
+Congratulations, Minha! And thanks to our great collaborators, Prof. Seungwoo and Yilong.
 <!--more-->
