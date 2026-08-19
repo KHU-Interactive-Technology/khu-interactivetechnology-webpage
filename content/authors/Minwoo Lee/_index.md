@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni
+role: Roboe Technologies
 
 # Organizations/Affiliations
 organizations:
